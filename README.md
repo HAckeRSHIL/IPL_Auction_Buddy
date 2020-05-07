@@ -12,8 +12,9 @@ Multiple Linear Regression , Polynomial Regression, Support Vector Regression , 
 | R-square score    |0.8284|
 | Training Set Size  |97|
 | Test Set Size     | 33|
+---
 <img src="Prediction Vs. Original.png"></img>
-##### _20 test cases are included in Line Comparison chart_
+##### _20 test cases are included in Bar Comparison chart_
 
 ---
 _**Disclaimer** : this is old dataset.Part of creating this project is to see that ML algorithm works in real world or not._
