@@ -12,7 +12,7 @@ Multiple Linear Regression , Polynomial Regression, Support Vector Regression , 
 | R-square score    |0.8284|
 | Training Set Size  |97|
 | Test Set Size     | 33|
----
+## Visualization 
 <img src="Prediction Vs. Original.png"></img>
 ##### _20 test cases are included in Bar Comparison chart_
 
